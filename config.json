@@ -1,0 +1,8 @@
+{
+    "EMAIL": "email dyalk",
+    "callmebot":"https://api.callmebot.com/whatsapp.php?phone=[phone_number]&text=go+go+check+in&apikey=[your_apikey]",
+    "ACCESS_TOKEN": "cookies access token dyalk",
+    "TELEGRAM_ID": "chat id dyalk",
+    "TELEGRAM_ID_GROUP": "group id  ida bghiti dir shabak",
+    "TELEGRAM_BOT_TOKEN": "telegram bot token"
+  }
